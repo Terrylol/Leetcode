@@ -50,4 +50,6 @@ public class Solution {
             }
             else if(right.left!=null) return false;
         }
-    }}
+        return true;
+    }
+}
